@@ -3,9 +3,9 @@ const prompt = require("prompt-sync")();
 
 // -------- SINCRONIZADO / ASSINCRONIZADO ------------
 
-// setTimeout( () => console.log("Pizza pronta!!!"), 5000 );
+setTimeout( () => console.log("Pizza pronta!!!"), 5000 );
 
-// console.log("Vou ao mercado");
+console.log("Vou ao mercado");
 
 
 // -------- CALLBACK ------------
